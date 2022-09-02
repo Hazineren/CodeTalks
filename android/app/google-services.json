@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "536798549929",
+    "firebase_url": "https://patika-9bd5e-default-rtdb.firebaseio.com",
+    "project_id": "patika-9bd5e",
+    "storage_bucket": "patika-9bd5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536798549929:android:05e07bebd0f7c7411a56b8",
+        "android_client_info": {
+          "package_name": "com.banane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536798549929-9go3g45m0lmvpk9cdci4s5rakhuu2g6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7qkr4doQukFKMJGMXk0rvBk3yXJ98cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536798549929-9go3g45m0lmvpk9cdci4s5rakhuu2g6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536798549929:android:138b290ded4992ef1a56b8",
+        "android_client_info": {
+          "package_name": "com.codetalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536798549929-9go3g45m0lmvpk9cdci4s5rakhuu2g6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7qkr4doQukFKMJGMXk0rvBk3yXJ98cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536798549929-9go3g45m0lmvpk9cdci4s5rakhuu2g6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536798549929:android:bc737ceb41c8a2091a56b8",
+        "android_client_info": {
+          "package_name": "com.myfirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536798549929-9go3g45m0lmvpk9cdci4s5rakhuu2g6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7qkr4doQukFKMJGMXk0rvBk3yXJ98cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536798549929-9go3g45m0lmvpk9cdci4s5rakhuu2g6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
